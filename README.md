@@ -5,7 +5,7 @@ A simple appointment manager to a barber shop, this application can be easily ad
 The application is in Brazilian Portuguese.
 
 ## How to Execute
-Before execute the web application you need to run the back-end application.
+Before execute the web application you need to run the [back-end application](https://github.com/Gisleude/GoBarberBackend2).
 
 It's possible to execute the project as follow:
 
@@ -15,6 +15,8 @@ It's possible to execute the project as follow:
 
 ## Features
 ● (1) Logon - You can do logon
+
+![Logon](https://github.com/Gisleude/GoBarberWeb2/blob/master/public/logon.png)
 
 ● (2) Register - You can create an account in the application
 
@@ -27,4 +29,4 @@ It's possible to execute the project as follow:
 ● (6) Logout - You can do logout
 
 ## Observations
-● You can do not make appointments by the web application, this feature is jut for the mobile app.
+● You can do not make appointments by the web application, this feature is jut for the [mobile app](https://github.com/Gisleude/GoBarberMobile2).
